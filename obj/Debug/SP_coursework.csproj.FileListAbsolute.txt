@@ -1,0 +1,12 @@
+F:\ProjectsUnivers\SP_coursework\bin\Debug\SP_coursework.exe.config
+F:\ProjectsUnivers\SP_coursework\bin\Debug\SP_coursework.exe
+F:\ProjectsUnivers\SP_coursework\bin\Debug\SP_coursework.pdb
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.csproj.AssemblyReference.cache
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.Form1.resources
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.Properties.Resources.resources
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.csproj.GenerateResource.cache
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.csproj.CoreCompileInputs.cache
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.exe
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.pdb
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.ChildForm.resources
+F:\ProjectsUnivers\SP_coursework\obj\Debug\SP_coursework.Rotate.resources
